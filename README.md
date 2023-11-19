@@ -1,5 +1,5 @@
 
-# Sudoku AI Solver
+# Deep Sudoku Solver
 
 <p align='center'>
     <img src='docs/images/sudoku-ai-solver.gif'>
@@ -8,7 +8,7 @@
 
 
 
-# Deep Sudoku Solver
+
 
 ## Overview
 
