@@ -1,4 +1,4 @@
-![Pytest workflow](https://github.com/sayandeep02/deep-sudoku-solver/actions/workflows/.github/workflows/pytest.yml/badge.svg) &ensp; ![Mkdocs workflow](https://github.com/sayandeep02/deep-sudoku-solver/actions/workflows/.github/workflows/docs.yml/badge.svg)
+
 # Sudoku AI Solver
 
 <p align='center'>
