@@ -1,6 +1,7 @@
 
 # Deep Sudoku Solver
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sayandeep02/deep-sudoku-solver/HEAD)
+<a href="https://githubtocolab.com/milaan9/93_Python_Data_Analytics_Projects"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a>
 
 
 <p align='center'>
