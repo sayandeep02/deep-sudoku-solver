@@ -1,5 +1,7 @@
 
 # Deep Sudoku Solver
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sayandeep02/deep-sudoku-solver/HEAD)
+
 
 <p align='center'>
     <img src='docs/images/sudoku-ai-solver.gif'>
